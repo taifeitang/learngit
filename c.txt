@@ -1,2 +1,2 @@
 
-this is git version 1
+this is git version 2
